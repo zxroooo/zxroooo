@@ -6,4 +6,4 @@
 
 ## License
 
-All my codes are under the [MIT License](https://opensource.org/licenses/MIT).
+All my codes are under the [MIT License](https://mit-license.org/).
