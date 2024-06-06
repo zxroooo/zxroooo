@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.com/invite/t3TBATnc" target="blank"><img align="center" src="https://images.app.goo.gl/3hymVxkPTVzEGbzk9" alt="8Hgp4jze6f" height="30" width="40" /></a>
+<a href="https://guns.lol/46" target="blank"><img align="center" src="" alt="8Hgp4jze6f" height="30" width="40" /></a>
 <a href="https://t.me/pullmethode" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="8Hgp4jze6f" height="30" width="40" /></a>
 </p>
 
