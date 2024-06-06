@@ -1,7 +1,9 @@
-<h1 align="center">Hi, I'm Zero</h1>
+# Hi there, I'm Zero! 
 
+## Get in Touch
 
+- [guns.lol](https://guns.lol/46)
 
--  How to reach me‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ https://guns.lol/46
+## License
 
-All my codes ar
+All my codes are under the [MIT License](https://opensource.org/licenses/MIT).
