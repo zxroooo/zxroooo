@@ -3,7 +3,7 @@
 
 
 - 📫 How to reach me 
-https://guns.lol/46
+ https://guns.lol/46
 
 
 ```
